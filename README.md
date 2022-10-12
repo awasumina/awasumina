@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sumina Awa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"></h1>
 <h3 align="center">A passionate Computer Engineering student</h3>
 
-<img align ="right" alt="gif coding" width = "600" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align ="right" alt="gif coding" width = "450" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumina-awa&label=Profile%20views&color=0e75b6&style=flat" alt="sumina-awa" /> </p>
@@ -39,7 +39,7 @@
 
 <p align="right">
     <a href="https://app.daily.dev/sumina_awa">
-        <img src="https://api.daily.dev/devcards/de879728e0154c0ba34643350ceaad48.png?r=n7k" width="400" alt="Sumina Awa's Dev Card" align="right" />
+        <img src="https://api.daily.dev/devcards/de879728e0154c0ba34643350ceaad48.png?r=n7k" width="300" alt="Sumina Awa's Dev Card" align="right" />
     </a>
 </p>
 
