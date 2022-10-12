@@ -39,7 +39,7 @@
 
 
 <p align="right">
-    <a href="https://app.daily.dev/sumina_awa">
+    <a href="https://app.daily.dev/awasumina">
         <img src="https://api.daily.dev/devcards/de879728e0154c0ba34643350ceaad48.png?r=n7k" width="300" alt="Sumina Awa's Dev Card" align="right" />
     </a>
 </p>
