@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web Development, Python and some other stuffs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sumina-awa](https://github.com/sumina-awa)
+- 👨‍💻 All of my projects are available at [https://github.com/awasumina](https://github.com/sumina-awa)
 
 - 📫 To reach me : **suminaawa123@gmail.com**
 
