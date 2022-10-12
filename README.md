@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sumina Awa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"></h1>
+<h1 align="center">Hi!  I'm Sumina Awa  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"></h1>
 <h3 align="center">A passionate Computer Engineering student</h3>
 
 <img align ="right" alt="gif coding" width = "450" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
