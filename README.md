@@ -21,9 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/awasumina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awasumina" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suminaawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suminaawa" height="30" width="40" /></a>
 <a href="https://fb.com/sumina.awa.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumina.awa.8" height="30" width="40" /></a>
+<a href="https://twitter.com/awasumina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awasumina" height="30" width="40" /></a>
 <a href="https://instagram.com/quotepupil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quotepupil" height="30" width="40" /></a>
 <a href="https://codepen.io/sumina-awa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumina-awa" height="30" width="40" /></a>
 <a href="https://discord.gg/SUMINA#4976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4976" height="30" width="40" /></a>
