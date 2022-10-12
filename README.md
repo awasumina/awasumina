@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" width="60px" height="60px">Hi!  I'm Sumina Awa  </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" width="60px" height="60px" >Hi!  I'm Sumina Awa  </h1>
 <h3 align="center">A passionate Computer Engineering student</h3>
 
 <img align ="right" alt="gif coding" width = "450" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumina-awa](https://github.com/sumina-awa)
 
-- 📫 How to reach me **suminaawa123@gmail.com**
+- 📫 To reach me : **suminaawa123@gmail.com**
 
 
 <br> <br>
