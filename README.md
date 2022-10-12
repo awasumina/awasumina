@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sumina Awa</h1>
+<h1 align="center">Hi, I'm Sumina Awa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"></h1>
 <h3 align="center">A passionate Computer Engineering student</h3>
 
-<img align ="right" alt="gif coding" width = "550" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align ="right" alt="gif coding" width = "600" src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumina-awa&label=Profile%20views&color=0e75b6&style=flat" alt="sumina-awa" /> </p>
+
+<p align="left"> <a href="https://twitter.com/awasumina" target="blank"><img src="https://img.shields.io/twitter/follow/awasumina?logo=twitter&style=for-the-badge" alt="awasumina" /></a> </p>
 
 - 🔭 I’m currently working on **Self-Development**
 
@@ -18,13 +20,13 @@
 <br> <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@sumina-awa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sumina-awa" height="30" width="40" /></a>
-<a href="https://dev.to/@sumina_awa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sumina_awa" height="30" width="40" /></a>
-<a href="https://twitter.com/@awasumina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@awasumina" height="30" width="40" /></a>
+<a href="https://codepen.io/sumina-awa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumina-awa" height="30" width="40" /></a>
+<a href="https://dev.to/sumina_awa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumina_awa" height="30" width="40" /></a>
+<a href="https://twitter.com/awasumina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awasumina" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suminaawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suminaawa" height="30" width="40" /></a>
 <a href="https://fb.com/sumina.awa.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumina.awa.8" height="30" width="40" /></a>
-<a href="https://instagram.com/life quotes👑" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="life quotes👑" height="30" width="40" /></a>
-<a href="https://discord.gg/SUMINA#4976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SUMINA#4976" height="30" width="40" /></a>
+<a href="https://instagram.com/quotepupil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quotepupil" height="30" width="40" /></a>
+<a href="https://discord.gg/4976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4976" height="30" width="40" /></a>
 </p>
 
 
