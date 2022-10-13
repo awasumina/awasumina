@@ -58,5 +58,5 @@
 
 
 
-![](https://activity-graph.herokuapp.com/graph?username=awasumina&custom_title=Sumina%27s%20Contribution%20Graph&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=awasumina&custom_title=Sumina%27s%20Contribution%20Graph&theme=nord)
 
