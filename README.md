@@ -52,11 +52,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awasumina&theme=dark&show_icons=true&locale=en" alt="sumina-awa" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awasumina&theme=dark&show_icons=true&locale=en&layout=compact" alt="sumina-awa" /></p>
+//<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awasumina&theme=dark&show_icons=true&locale=en&layout=compact" alt="sumina-awa" /></p>
 
 <br/><br/><br/><br/><br/><br/>
 
 
 
-![](https://activity-graph.herokuapp.com/graph?username=awasumina&custom_title=Sumina%27s%20Contribution%20Graph&theme=github-dark)
+//![](https://activity-graph.herokuapp.com/graph?username=awasumina&custom_title=Sumina%27s%20Contribution%20Graph&theme=github-dark)
 
