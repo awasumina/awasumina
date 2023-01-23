@@ -55,7 +55,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsubedi&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/kushalsubedi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awasumina&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/awasumina/github-readme-stats)
 
 
 
